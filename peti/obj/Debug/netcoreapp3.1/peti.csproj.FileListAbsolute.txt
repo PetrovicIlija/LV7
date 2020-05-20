@@ -1,0 +1,13 @@
+C:\Users\ilija\source\repos\LV7\peti\bin\Debug\netcoreapp3.1\peti.exe
+C:\Users\ilija\source\repos\LV7\peti\bin\Debug\netcoreapp3.1\peti.deps.json
+C:\Users\ilija\source\repos\LV7\peti\bin\Debug\netcoreapp3.1\peti.runtimeconfig.json
+C:\Users\ilija\source\repos\LV7\peti\bin\Debug\netcoreapp3.1\peti.runtimeconfig.dev.json
+C:\Users\ilija\source\repos\LV7\peti\bin\Debug\netcoreapp3.1\peti.dll
+C:\Users\ilija\source\repos\LV7\peti\bin\Debug\netcoreapp3.1\peti.pdb
+C:\Users\ilija\source\repos\LV7\peti\obj\Debug\netcoreapp3.1\peti.csprojAssemblyReference.cache
+C:\Users\ilija\source\repos\LV7\peti\obj\Debug\netcoreapp3.1\peti.csproj.CoreCompileInputs.cache
+C:\Users\ilija\source\repos\LV7\peti\obj\Debug\netcoreapp3.1\peti.AssemblyInfoInputs.cache
+C:\Users\ilija\source\repos\LV7\peti\obj\Debug\netcoreapp3.1\peti.AssemblyInfo.cs
+C:\Users\ilija\source\repos\LV7\peti\obj\Debug\netcoreapp3.1\peti.dll
+C:\Users\ilija\source\repos\LV7\peti\obj\Debug\netcoreapp3.1\peti.pdb
+C:\Users\ilija\source\repos\LV7\peti\obj\Debug\netcoreapp3.1\peti.genruntimeconfig.cache
